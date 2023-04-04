@@ -1,5 +1,13 @@
 # Status Code Fan Club
 
+<center>
+  
+![Animation of a road sign with a construction worker, digging](Under_construction_animated.gif)
+
+</center>
+
+[Learn more](/about) about this fan club.
+
 ## 100
 
 ## 200
